@@ -1,0 +1,2 @@
+# schrscr
+Scripts for shrodinger 
